@@ -1,0 +1,353 @@
+{
+   "query": "images/62503294_5693.jpg", 
+   "responses": [
+      {
+         "textAnnotations": [
+            {
+               "locale": "en", 
+               "description": ".. ... ..Mbitt\u5de5&W\u727dele1lWine\n", 
+               "boundingPoly": {
+                  "vertices": [
+                     {
+                        "y": 264, 
+                        "x": 66
+                     }, 
+                     {
+                        "y": 264, 
+                        "x": 407
+                     }, 
+                     {
+                        "y": 315, 
+                        "x": 407
+                     }, 
+                     {
+                        "y": 315, 
+                        "x": 66
+                     }
+                  ]
+               }
+            }, 
+            {
+               "description": "..", 
+               "boundingPoly": {
+                  "vertices": [
+                     {
+                        "y": 304, 
+                        "x": 408
+                     }, 
+                     {
+                        "y": 309, 
+                        "x": 408
+                     }, 
+                     {
+                        "y": 308, 
+                        "x": 397
+                     }, 
+                     {
+                        "y": 303, 
+                        "x": 397
+                     }
+                  ]
+               }
+            }, 
+            {
+               "description": "...", 
+               "boundingPoly": {
+                  "vertices": [
+                     {
+                        "y": 300, 
+                        "x": 389
+                     }, 
+                     {
+                        "y": 308, 
+                        "x": 388
+                     }, 
+                     {
+                        "y": 305, 
+                        "x": 357
+                     }, 
+                     {
+                        "y": 297, 
+                        "x": 358
+                     }
+                  ]
+               }
+            }, 
+            {
+               "description": "..Mbitt", 
+               "boundingPoly": {
+                  "vertices": [
+                     {
+                        "y": 288, 
+                        "x": 348
+                     }, 
+                     {
+                        "y": 315, 
+                        "x": 346
+                     }, 
+                     {
+                        "y": 307, 
+                        "x": 258
+                     }, 
+                     {
+                        "y": 280, 
+                        "x": 260
+                     }
+                  ]
+               }
+            }, 
+            {
+               "description": "\u5de5", 
+               "boundingPoly": {
+                  "vertices": [
+                     {
+                        "y": 283, 
+                        "x": 258
+                     }, 
+                     {
+                        "y": 297, 
+                        "x": 257
+                     }, 
+                     {
+                        "y": 296, 
+                        "x": 249
+                     }, 
+                     {
+                        "y": 282, 
+                        "x": 250
+                     }
+                  ]
+               }
+            }, 
+            {
+               "description": "&", 
+               "boundingPoly": {
+                  "vertices": [
+                     {
+                        "y": 280, 
+                        "x": 241
+                     }, 
+                     {
+                        "y": 308, 
+                        "x": 239
+                     }, 
+                     {
+                        "y": 306, 
+                        "x": 216
+                     }, 
+                     {
+                        "y": 278, 
+                        "x": 218
+                     }
+                  ]
+               }
+            }, 
+            {
+               "description": "W", 
+               "boundingPoly": {
+                  "vertices": [
+                     {
+                        "y": 278, 
+                        "x": 217
+                     }, 
+                     {
+                        "y": 306, 
+                        "x": 215
+                     }, 
+                     {
+                        "y": 304, 
+                        "x": 193
+                     }, 
+                     {
+                        "y": 276, 
+                        "x": 195
+                     }
+                  ]
+               }
+            }, 
+            {
+               "description": "\u727d", 
+               "boundingPoly": {
+                  "vertices": [
+                     {
+                        "y": 277, 
+                        "x": 195
+                     }, 
+                     {
+                        "y": 295, 
+                        "x": 193
+                     }, 
+                     {
+                        "y": 294, 
+                        "x": 181
+                     }, 
+                     {
+                        "y": 276, 
+                        "x": 183
+                     }
+                  ]
+               }
+            }, 
+            {
+               "description": "ele1lWine", 
+               "boundingPoly": {
+                  "vertices": [
+                     {
+                        "y": 274, 
+                        "x": 183
+                     }, 
+                     {
+                        "y": 304, 
+                        "x": 180
+                     }, 
+                     {
+                        "y": 294, 
+                        "x": 67
+                     }, 
+                     {
+                        "y": 264, 
+                        "x": 69
+                     }
+                  ]
+               }
+            }
+         ], 
+         "labelAnnotations": [
+            {
+               "score": 0.95699722, 
+               "mid": "/m/0204fg", 
+               "description": "skyline"
+            }, 
+            {
+               "score": 0.88454235, 
+               "mid": "/m/01n32", 
+               "description": "city"
+            }, 
+            {
+               "score": 0.88192081, 
+               "mid": "/m/01d74z", 
+               "description": "night"
+            }, 
+            {
+               "score": 0.85922337, 
+               "mid": "/m/05_5t0l", 
+               "description": "landmark"
+            }, 
+            {
+               "score": 0.84129524, 
+               "mid": "/m/0d1n2", 
+               "description": "horizon"
+            }, 
+            {
+               "score": 0.82595587, 
+               "mid": "/m/02l215", 
+               "description": "reflection"
+            }, 
+            {
+               "score": 0.80772519, 
+               "mid": "/m/0fpdgl", 
+               "description": "human settlement"
+            }, 
+            {
+               "score": 0.79614604, 
+               "mid": "/m/034z7h", 
+               "description": "cityscape"
+            }, 
+            {
+               "score": 0.72192222, 
+               "mid": "/m/04mx32", 
+               "description": "evening"
+            }, 
+            {
+               "score": 0.71456474, 
+               "mid": "/m/01b3l7", 
+               "description": "dusk"
+            }, 
+            {
+               "score": 0.66766304, 
+               "mid": "/m/056mk", 
+               "description": "metropolis"
+            }, 
+            {
+               "score": 0.63844693, 
+               "mid": "/m/079cl", 
+               "description": "skyscraper"
+            }
+         ]
+      }
+   ]
+}
+{
+   "query": "images/61708955_2198937.jpg", 
+   "responses": [
+      {
+         "labelAnnotations": [
+            {
+               "score": 0.99010819, 
+               "mid": "/m/0k4j", 
+               "description": "car"
+            }, 
+            {
+               "score": 0.96939856, 
+               "mid": "/m/07yv9", 
+               "description": "vehicle"
+            }, 
+            {
+               "score": 0.94362468, 
+               "mid": "/m/01prls", 
+               "description": "land vehicle"
+            }, 
+            {
+               "score": 0.91622889, 
+               "mid": "/m/05msttc", 
+               "description": "mercedes benz sls amg"
+            }, 
+            {
+               "score": 0.89488965, 
+               "mid": "/m/052mx", 
+               "description": "mercedes benz"
+            }, 
+            {
+               "score": 0.88879085, 
+               "mid": "/m/012mq4", 
+               "description": "sports car"
+            }, 
+            {
+               "score": 0.77788007, 
+               "mid": "/m/068mqj", 
+               "description": "automotive design"
+            }, 
+            {
+               "score": 0.73474962, 
+               "mid": "/m/02ht342", 
+               "description": "automobile make"
+            }, 
+            {
+               "score": 0.72698992, 
+               "mid": "/m/083wq", 
+               "description": "wheel"
+            }, 
+            {
+               "score": 0.7042349, 
+               "mid": "/m/0h8ls87", 
+               "description": "automotive exterior"
+            }, 
+            {
+               "score": 0.64435661, 
+               "mid": "/m/02mnkq", 
+               "description": "bumper"
+            }, 
+            {
+               "score": 0.62057149, 
+               "mid": "/m/06j11d", 
+               "description": "performance car"
+            }, 
+            {
+               "score": 0.55318582, 
+               "mid": "/m/014f__", 
+               "description": "supercar"
+            }
+         ]
+      }
+   ]
+}

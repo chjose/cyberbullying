@@ -1,0 +1,551 @@
+{
+   "query": "images/669071756687949998_15077159.jpg", 
+   "responses": [
+      {
+         "labelAnnotations": [
+            {
+               "score": 0.92117912, 
+               "mid": "/m/01d74z", 
+               "description": "night"
+            }, 
+            {
+               "score": 0.903474, 
+               "mid": "/m/02l215", 
+               "description": "reflection"
+            }, 
+            {
+               "score": 0.86697537, 
+               "mid": "/m/0204fg", 
+               "description": "skyline"
+            }, 
+            {
+               "score": 0.83223993, 
+               "mid": "/m/01n32", 
+               "description": "city"
+            }, 
+            {
+               "score": 0.80739409, 
+               "mid": "/m/04k84", 
+               "description": "light"
+            }, 
+            {
+               "score": 0.77935547, 
+               "mid": "/m/01kyr8", 
+               "description": "darkness"
+            }, 
+            {
+               "score": 0.76940411, 
+               "mid": "/m/0fpdgl", 
+               "description": "human settlement"
+            }, 
+            {
+               "score": 0.75997913, 
+               "mid": "/m/034z7h", 
+               "description": "cityscape"
+            }, 
+            {
+               "score": 0.71081626, 
+               "mid": "/m/01ctry", 
+               "description": "atmosphere of earth"
+            }, 
+            {
+               "score": 0.70606697, 
+               "mid": "/m/04mx32", 
+               "description": "evening"
+            }, 
+            {
+               "score": 0.67711383, 
+               "mid": "/m/01b3l7", 
+               "description": "dusk"
+            }, 
+            {
+               "score": 0.64967382, 
+               "mid": "/m/015kr", 
+               "description": "bridge"
+            }, 
+            {
+               "score": 0.57246822, 
+               "mid": "/m/079cl", 
+               "description": "skyscraper"
+            }
+         ]
+      }
+   ]
+}
+{
+   "query": "images/1191425236560415824_587871954.jpg", 
+   "responses": [
+      {
+         "labelAnnotations": [
+            {
+               "score": 0.77866185, 
+               "mid": "/m/01x5q", 
+               "description": "ceramic"
+            }, 
+            {
+               "score": 0.73684204, 
+               "mid": "/m/0jjw", 
+               "description": "art"
+            }, 
+            {
+               "score": 0.71397537, 
+               "mid": "/m/02wtjj", 
+               "description": "stone carving"
+            }, 
+            {
+               "score": 0.70375997, 
+               "mid": "/m/06msq", 
+               "description": "sculpture"
+            }, 
+            {
+               "score": 0.6783731, 
+               "mid": "/m/02s195", 
+               "description": "vase"
+            }, 
+            {
+               "score": 0.62442523, 
+               "mid": "/m/016f4d", 
+               "description": "porcelain"
+            }, 
+            {
+               "score": 0.54253805, 
+               "mid": "/m/0jwzhtg", 
+               "description": "carving"
+            }, 
+            {
+               "score": 0.51946312, 
+               "mid": "/m/01l0y0", 
+               "description": "material"
+            }
+         ]
+      }
+   ]
+}
+{
+   "query": "images/1190258152238265289_305102859.jpg", 
+   "responses": [
+      {
+         "labelAnnotations": [
+            {
+               "score": 0.9523102, 
+               "mid": "/m/03q69", 
+               "description": "hair"
+            }, 
+            {
+               "score": 0.91427249, 
+               "mid": "/m/09j2d", 
+               "description": "clothing"
+            }, 
+            {
+               "score": 0.83896273, 
+               "mid": "/m/05wkw", 
+               "description": "photography"
+            }, 
+            {
+               "score": 0.822881, 
+               "mid": "/m/0ds4x", 
+               "description": "hairstyle"
+            }, 
+            {
+               "score": 0.7229017, 
+               "mid": "/m/02ksmb", 
+               "description": "brown hair"
+            }, 
+            {
+               "score": 0.71087044, 
+               "mid": "/m/02pd__z", 
+               "description": "long hair"
+            }, 
+            {
+               "score": 0.65584594, 
+               "mid": "/m/047vlmn", 
+               "description": "outerwear"
+            }, 
+            {
+               "score": 0.63651651, 
+               "mid": "/m/0463sg", 
+               "description": "fashion accessory"
+            }, 
+            {
+               "score": 0.62064797, 
+               "mid": "/m/02qbl1m", 
+               "description": "photo shoot"
+            }, 
+            {
+               "score": 0.56047881, 
+               "mid": "/m/0dzd8", 
+               "description": "neck"
+            }, 
+            {
+               "score": 0.55438262, 
+               "mid": "/m/0sgh53y", 
+               "description": "selfie"
+            }, 
+            {
+               "score": 0.54504263, 
+               "mid": "/m/0dnr7", 
+               "description": "textile"
+            }
+         ]
+      }
+   ]
+}
+{
+   "query": "images/1220456122265533960_1551846438.jpg", 
+   "responses": [
+      {
+         "textAnnotations": [
+            {
+               "locale": "en", 
+               "description": "l lick it up like a boss\n", 
+               "boundingPoly": {
+                  "vertices": [
+                     {
+                        "y": 611, 
+                        "x": 208
+                     }, 
+                     {
+                        "y": 611, 
+                        "x": 368
+                     }, 
+                     {
+                        "y": 639, 
+                        "x": 368
+                     }, 
+                     {
+                        "y": 639, 
+                        "x": 208
+                     }
+                  ]
+               }
+            }, 
+            {
+               "description": "l", 
+               "boundingPoly": {
+                  "vertices": [
+                     {
+                        "y": 612, 
+                        "x": 208
+                     }, 
+                     {
+                        "y": 612, 
+                        "x": 212
+                     }, 
+                     {
+                        "y": 633, 
+                        "x": 212
+                     }, 
+                     {
+                        "y": 633, 
+                        "x": 208
+                     }
+                  ]
+               }
+            }, 
+            {
+               "description": "lick", 
+               "boundingPoly": {
+                  "vertices": [
+                     {
+                        "y": 612, 
+                        "x": 217
+                     }, 
+                     {
+                        "y": 612, 
+                        "x": 241
+                     }, 
+                     {
+                        "y": 633, 
+                        "x": 241
+                     }, 
+                     {
+                        "y": 633, 
+                        "x": 217
+                     }
+                  ]
+               }
+            }, 
+            {
+               "description": "it", 
+               "boundingPoly": {
+                  "vertices": [
+                     {
+                        "y": 612, 
+                        "x": 249
+                     }, 
+                     {
+                        "y": 612, 
+                        "x": 257
+                     }, 
+                     {
+                        "y": 633, 
+                        "x": 257
+                     }, 
+                     {
+                        "y": 633, 
+                        "x": 249
+                     }
+                  ]
+               }
+            }, 
+            {
+               "description": "up", 
+               "boundingPoly": {
+                  "vertices": [
+                     {
+                        "y": 612, 
+                        "x": 263
+                     }, 
+                     {
+                        "y": 612, 
+                        "x": 282
+                     }, 
+                     {
+                        "y": 633, 
+                        "x": 282
+                     }, 
+                     {
+                        "y": 633, 
+                        "x": 263
+                     }
+                  ]
+               }
+            }, 
+            {
+               "description": "like", 
+               "boundingPoly": {
+                  "vertices": [
+                     {
+                        "y": 611, 
+                        "x": 287
+                     }, 
+                     {
+                        "y": 611, 
+                        "x": 310
+                     }, 
+                     {
+                        "y": 639, 
+                        "x": 310
+                     }, 
+                     {
+                        "y": 639, 
+                        "x": 287
+                     }
+                  ]
+               }
+            }, 
+            {
+               "description": "a", 
+               "boundingPoly": {
+                  "vertices": [
+                     {
+                        "y": 612, 
+                        "x": 319
+                     }, 
+                     {
+                        "y": 612, 
+                        "x": 326
+                     }, 
+                     {
+                        "y": 633, 
+                        "x": 326
+                     }, 
+                     {
+                        "y": 633, 
+                        "x": 319
+                     }
+                  ]
+               }
+            }, 
+            {
+               "description": "boss", 
+               "boundingPoly": {
+                  "vertices": [
+                     {
+                        "y": 612, 
+                        "x": 333
+                     }, 
+                     {
+                        "y": 612, 
+                        "x": 368
+                     }, 
+                     {
+                        "y": 633, 
+                        "x": 368
+                     }, 
+                     {
+                        "y": 633, 
+                        "x": 333
+                     }
+                  ]
+               }
+            }
+         ], 
+         "labelAnnotations": [
+            {
+               "score": 0.96571177, 
+               "mid": "/m/0dzct", 
+               "description": "face"
+            }, 
+            {
+               "score": 0.95723873, 
+               "mid": "/m/0k0pj", 
+               "description": "nose"
+            }, 
+            {
+               "score": 0.93426412, 
+               "mid": "/m/037p5b", 
+               "description": "cheek"
+            }, 
+            {
+               "score": 0.819732, 
+               "mid": "/m/0283dt1", 
+               "description": "mouth"
+            }, 
+            {
+               "score": 0.7647422, 
+               "mid": "/m/04hgtk", 
+               "description": "head"
+            }, 
+            {
+               "score": 0.7524454, 
+               "mid": "/m/0fjkt", 
+               "description": "tongue"
+            }, 
+            {
+               "score": 0.73315752, 
+               "mid": "/m/06pj2k", 
+               "description": "lip"
+            }, 
+            {
+               "score": 0.72903454, 
+               "mid": "/m/0ds4x", 
+               "description": "hairstyle"
+            }, 
+            {
+               "score": 0.69948995, 
+               "mid": "/m/013y0j", 
+               "description": "organ"
+            }, 
+            {
+               "score": 0.67718667, 
+               "mid": "/m/0bby24z", 
+               "description": "moustache"
+            }, 
+            {
+               "score": 0.62685132, 
+               "mid": "/m/09cx8", 
+               "description": "finger"
+            }, 
+            {
+               "score": 0.61331892, 
+               "mid": "/m/0ds5b", 
+               "description": "facial hair"
+            }, 
+            {
+               "score": 0.60170025, 
+               "mid": "/m/039xj_", 
+               "description": "ear"
+            }, 
+            {
+               "score": 0.59430391, 
+               "mid": "/m/0dzd8", 
+               "description": "neck"
+            }, 
+            {
+               "score": 0.59099096, 
+               "mid": "/m/01k9lj", 
+               "description": "jaw"
+            }, 
+            {
+               "score": 0.57174975, 
+               "mid": "/m/0k65p", 
+               "description": "hand"
+            }, 
+            {
+               "score": 0.54596186, 
+               "mid": "/m/02p0tk3", 
+               "description": "human body"
+            }, 
+            {
+               "score": 0.5151304, 
+               "mid": "/m/0cnxs6x", 
+               "description": "tooth"
+            }, 
+            {
+               "score": 0.50721186, 
+               "mid": "/m/014sv8", 
+               "description": "eye"
+            }
+         ]
+      }
+   ]
+}
+{
+   "query": "images/1207421617910821473_523368307.jpg", 
+   "responses": [
+      {
+         "textAnnotations": [
+            {
+               "locale": "en", 
+               "description": "G\n", 
+               "boundingPoly": {
+                  "vertices": [
+                     {
+                        "y": 111, 
+                        "x": 317
+                     }, 
+                     {
+                        "y": 111, 
+                        "x": 322
+                     }, 
+                     {
+                        "y": 118, 
+                        "x": 322
+                     }, 
+                     {
+                        "y": 118, 
+                        "x": 317
+                     }
+                  ]
+               }
+            }, 
+            {
+               "description": "G", 
+               "boundingPoly": {
+                  "vertices": [
+                     {
+                        "y": 111, 
+                        "x": 317
+                     }, 
+                     {
+                        "y": 111, 
+                        "x": 322
+                     }, 
+                     {
+                        "y": 118, 
+                        "x": 322
+                     }, 
+                     {
+                        "y": 118, 
+                        "x": 317
+                     }
+                  ]
+               }
+            }
+         ], 
+         "labelAnnotations": [
+            {
+               "score": 0.70313245, 
+               "mid": "/m/0jjw", 
+               "description": "art"
+            }, 
+            {
+               "score": 0.59596813, 
+               "mid": "/m/0138tl", 
+               "description": "toy"
+            }
+         ]
+      }
+   ]
+}

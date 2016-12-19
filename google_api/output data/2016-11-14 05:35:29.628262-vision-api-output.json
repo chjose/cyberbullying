@@ -1,0 +1,598 @@
+{
+   "query": "temp/136872114_1952771.jpg", 
+   "responses": [
+      {
+         "textAnnotations": [
+            {
+               "locale": "en", 
+               "description": "Please\nering\nNo\nSmoking\nSpitting\nRadio Playing\n", 
+               "boundingPoly": {
+                  "vertices": [
+                     {
+                        "y": 56, 
+                        "x": 202
+                     }, 
+                     {
+                        "y": 56, 
+                        "x": 310
+                     }, 
+                     {
+                        "y": 125, 
+                        "x": 310
+                     }, 
+                     {
+                        "y": 125, 
+                        "x": 202
+                     }
+                  ]
+               }
+            }, 
+            {
+               "description": "Please", 
+               "boundingPoly": {
+                  "vertices": [
+                     {
+                        "y": 56, 
+                        "x": 203
+                     }, 
+                     {
+                        "y": 56, 
+                        "x": 244
+                     }, 
+                     {
+                        "y": 65, 
+                        "x": 244
+                     }, 
+                     {
+                        "y": 65, 
+                        "x": 203
+                     }
+                  ]
+               }
+            }, 
+            {
+               "description": "ering", 
+               "boundingPoly": {
+                  "vertices": [
+                     {
+                        "y": 69, 
+                        "x": 278
+                     }, 
+                     {
+                        "y": 70, 
+                        "x": 309
+                     }, 
+                     {
+                        "y": 82, 
+                        "x": 308
+                     }, 
+                     {
+                        "y": 81, 
+                        "x": 277
+                     }
+                  ]
+               }
+            }, 
+            {
+               "description": "No", 
+               "boundingPoly": {
+                  "vertices": [
+                     {
+                        "y": 72, 
+                        "x": 204
+                     }, 
+                     {
+                        "y": 76, 
+                        "x": 249
+                     }, 
+                     {
+                        "y": 104, 
+                        "x": 246
+                     }, 
+                     {
+                        "y": 100, 
+                        "x": 202
+                     }
+                  ]
+               }
+            }, 
+            {
+               "description": "Smoking", 
+               "boundingPoly": {
+                  "vertices": [
+                     {
+                        "y": 84, 
+                        "x": 255
+                     }, 
+                     {
+                        "y": 84, 
+                        "x": 309
+                     }, 
+                     {
+                        "y": 94, 
+                        "x": 309
+                     }, 
+                     {
+                        "y": 94, 
+                        "x": 255
+                     }
+                  ]
+               }
+            }, 
+            {
+               "description": "Spitting", 
+               "boundingPoly": {
+                  "vertices": [
+                     {
+                        "y": 98, 
+                        "x": 262
+                     }, 
+                     {
+                        "y": 102, 
+                        "x": 310
+                     }, 
+                     {
+                        "y": 113, 
+                        "x": 309
+                     }, 
+                     {
+                        "y": 109, 
+                        "x": 261
+                     }
+                  ]
+               }
+            }, 
+            {
+               "description": "Radio", 
+               "boundingPoly": {
+                  "vertices": [
+                     {
+                        "y": 113, 
+                        "x": 224
+                     }, 
+                     {
+                        "y": 113, 
+                        "x": 258
+                     }, 
+                     {
+                        "y": 123, 
+                        "x": 258
+                     }, 
+                     {
+                        "y": 123, 
+                        "x": 224
+                     }
+                  ]
+               }
+            }, 
+            {
+               "description": "Playing", 
+               "boundingPoly": {
+                  "vertices": [
+                     {
+                        "y": 113, 
+                        "x": 265
+                     }, 
+                     {
+                        "y": 113, 
+                        "x": 310
+                     }, 
+                     {
+                        "y": 125, 
+                        "x": 310
+                     }, 
+                     {
+                        "y": 125, 
+                        "x": 265
+                     }
+                  ]
+               }
+            }
+         ], 
+         "labelAnnotations": [
+            {
+               "score": 0.72988504, 
+               "mid": "/m/01jwgf", 
+               "description": "product"
+            }, 
+            {
+               "score": 0.61568373, 
+               "mid": "/m/02mf1n", 
+               "description": "gadget"
+            }, 
+            {
+               "score": 0.60580343, 
+               "mid": "/m/0541p", 
+               "description": "multimedia"
+            }, 
+            {
+               "score": 0.58218908, 
+               "mid": "/m/016nqd", 
+               "description": "shape"
+            }
+         ]
+      }
+   ]
+}
+{
+   "query": "temp/134897074747121245_3560678.jpg", 
+   "responses": [
+      {
+         "labelAnnotations": [
+            {
+               "score": 0.82456625, 
+               "mid": "/m/04k84", 
+               "description": "light"
+            }, 
+            {
+               "score": 0.81655616, 
+               "mid": "/m/01kyr8", 
+               "description": "darkness"
+            }, 
+            {
+               "score": 0.74467683, 
+               "mid": "/m/01d74z", 
+               "description": "night"
+            }, 
+            {
+               "score": 0.72788846, 
+               "mid": "/m/06z0n", 
+               "description": "sunlight"
+            }, 
+            {
+               "score": 0.65624535, 
+               "mid": "/m/01d9ll", 
+               "description": "astronomical object"
+            }, 
+            {
+               "score": 0.64710343, 
+               "mid": "/m/01vkl", 
+               "description": "circle"
+            }, 
+            {
+               "score": 0.58395779, 
+               "mid": "/m/016nqd", 
+               "description": "shape"
+            }, 
+            {
+               "score": 0.56228989, 
+               "mid": "/m/017bm6", 
+               "description": "lens flare"
+            }
+         ]
+      }
+   ]
+}
+{
+   "query": "temp/138303990054401972_16173468.jpg", 
+   "responses": [
+      {
+         "labelAnnotations": [
+            {
+               "score": 0.99360406, 
+               "mid": "/m/0bt9lr", 
+               "description": "dog"
+            }, 
+            {
+               "score": 0.9582215, 
+               "mid": "/m/0cpws4", 
+               "description": "german spitz klein"
+            }, 
+            {
+               "score": 0.94967967, 
+               "mid": "/m/04rky", 
+               "description": "mammal"
+            }, 
+            {
+               "score": 0.94015652, 
+               "mid": "/m/016wfy", 
+               "description": "pomeranian"
+            }, 
+            {
+               "score": 0.93880671, 
+               "mid": "/m/09686", 
+               "description": "vertebrate"
+            }, 
+            {
+               "score": 0.93425095, 
+               "mid": "/m/02q64g_", 
+               "description": "german spitz mittel"
+            }, 
+            {
+               "score": 0.91019416, 
+               "mid": "/m/0kpmf", 
+               "description": "dog breed"
+            }, 
+            {
+               "score": 0.85560608, 
+               "mid": "/m/05bkt9", 
+               "description": "german spitz"
+            }, 
+            {
+               "score": 0.849012, 
+               "mid": "/m/01z5f", 
+               "description": "dog like mammal"
+            }, 
+            {
+               "score": 0.80090868, 
+               "mid": "/m/02xl47d", 
+               "description": "dog breed group"
+            }, 
+            {
+               "score": 0.73348188, 
+               "mid": "/m/05t252", 
+               "description": "volpino italiano"
+            }, 
+            {
+               "score": 0.52070534, 
+               "mid": "/m/01lrl", 
+               "description": "carnivoran"
+            }, 
+            {
+               "score": 0.50235218, 
+               "mid": "/m/07dx0m", 
+               "description": "japanese spitz"
+            }
+         ]
+      }
+   ]
+}
+{
+   "query": "temp/137748033197530119_3014054.jpg", 
+   "responses": [
+      {
+         "textAnnotations": [
+            {
+               "locale": "af", 
+               "description": "oarsHe\nBrand\nTHIS ESTABLISHMENT IS\nAPPROVED\nMLA Aand\n", 
+               "boundingPoly": {
+                  "vertices": [
+                     {
+                        "y": 23, 
+                        "x": 145
+                     }, 
+                     {
+                        "y": 23, 
+                        "x": 411
+                     }, 
+                     {
+                        "y": 590, 
+                        "x": 411
+                     }, 
+                     {
+                        "y": 590, 
+                        "x": 145
+                     }
+                  ]
+               }
+            }, 
+            {
+               "description": "oarsHe", 
+               "boundingPoly": {
+                  "vertices": [
+                     {
+                        "y": 23, 
+                        "x": 242
+                     }, 
+                     {
+                        "y": 23, 
+                        "x": 374
+                     }, 
+                     {
+                        "y": 64, 
+                        "x": 374
+                     }, 
+                     {
+                        "y": 64, 
+                        "x": 242
+                     }
+                  ]
+               }
+            }, 
+            {
+               "description": "Brand", 
+               "boundingPoly": {
+                  "vertices": [
+                     {
+                        "y": 167, 
+                        "x": 261
+                     }, 
+                     {
+                        "y": 167, 
+                        "x": 363
+                     }, 
+                     {
+                        "y": 208, 
+                        "x": 363
+                     }, 
+                     {
+                        "y": 208, 
+                        "x": 261
+                     }
+                  ]
+               }
+            }, 
+            {
+               "description": "THIS", 
+               "boundingPoly": {
+                  "vertices": [
+                     {
+                        "y": 452, 
+                        "x": 215
+                     }, 
+                     {
+                        "y": 451, 
+                        "x": 248
+                     }, 
+                     {
+                        "y": 463, 
+                        "x": 248
+                     }, 
+                     {
+                        "y": 464, 
+                        "x": 215
+                     }
+                  ]
+               }
+            }, 
+            {
+               "description": "ESTABLISHMENT", 
+               "boundingPoly": {
+                  "vertices": [
+                     {
+                        "y": 451, 
+                        "x": 255
+                     }, 
+                     {
+                        "y": 448, 
+                        "x": 386
+                     }, 
+                     {
+                        "y": 460, 
+                        "x": 386
+                     }, 
+                     {
+                        "y": 463, 
+                        "x": 255
+                     }
+                  ]
+               }
+            }, 
+            {
+               "description": "IS", 
+               "boundingPoly": {
+                  "vertices": [
+                     {
+                        "y": 447, 
+                        "x": 393
+                     }, 
+                     {
+                        "y": 447, 
+                        "x": 411
+                     }, 
+                     {
+                        "y": 459, 
+                        "x": 411
+                     }, 
+                     {
+                        "y": 459, 
+                        "x": 393
+                     }
+                  ]
+               }
+            }, 
+            {
+               "description": "APPROVED", 
+               "boundingPoly": {
+                  "vertices": [
+                     {
+                        "y": 497, 
+                        "x": 224
+                     }, 
+                     {
+                        "y": 497, 
+                        "x": 408
+                     }, 
+                     {
+                        "y": 536, 
+                        "x": 408
+                     }, 
+                     {
+                        "y": 536, 
+                        "x": 224
+                     }
+                  ]
+               }
+            }, 
+            {
+               "description": "MLA", 
+               "boundingPoly": {
+                  "vertices": [
+                     {
+                        "y": 568, 
+                        "x": 145
+                     }, 
+                     {
+                        "y": 568, 
+                        "x": 185
+                     }, 
+                     {
+                        "y": 590, 
+                        "x": 185
+                     }, 
+                     {
+                        "y": 590, 
+                        "x": 145
+                     }
+                  ]
+               }
+            }, 
+            {
+               "description": "Aand", 
+               "boundingPoly": {
+                  "vertices": [
+                     {
+                        "y": 568, 
+                        "x": 248
+                     }, 
+                     {
+                        "y": 568, 
+                        "x": 296
+                     }, 
+                     {
+                        "y": 590, 
+                        "x": 296
+                     }, 
+                     {
+                        "y": 590, 
+                        "x": 248
+                     }
+                  ]
+               }
+            }
+         ], 
+         "labelAnnotations": [
+            {
+               "score": 0.93202323, 
+               "mid": "/m/01n5jq", 
+               "description": "poster"
+            }, 
+            {
+               "score": 0.92068845, 
+               "mid": "/m/01g6gs", 
+               "description": "black and white"
+            }, 
+            {
+               "score": 0.85890043, 
+               "mid": "/m/011s0", 
+               "description": "advertising"
+            }, 
+            {
+               "score": 0.739858, 
+               "mid": "/m/067408", 
+               "description": "album cover"
+            }, 
+            {
+               "score": 0.69042891, 
+               "mid": "/m/03d49p1", 
+               "description": "monochrome photography"
+            }, 
+            {
+               "score": 0.65597427, 
+               "mid": "/m/01mwkf", 
+               "description": "monochrome"
+            }, 
+            {
+               "score": 0.59691668, 
+               "mid": "/m/01cd9", 
+               "description": "brand"
+            }, 
+            {
+               "score": 0.54365116, 
+               "mid": "/m/01kr8f", 
+               "description": "illustration"
+            }
+         ]
+      }
+   ]
+}
